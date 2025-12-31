@@ -2,9 +2,11 @@
 
 This is an exploration similar to [Ultimate Linux](https://github.com/popovicu/ultimate-linux/) where the userspace is written in JavaScript. Please check out that mini repo for context on how I started doing these explorations.
 
-jLinux is yet another jab at the comments I have received on my views with Linux, Unix, AI, etc.
+jLinux is yet another jab at the comments I have received on my views with Linux, Unix, AI, etc. This time, the whole system is built in **Java**.
 
 At the same time, it's a fun exploration on finding the most "independent" deployment of a Java binary.
+
+Also, **100% of this code is written by AI**, there is not a single human-written line in that file. Because that's how we deliver true business value!
 
 ## Build instructions
 
